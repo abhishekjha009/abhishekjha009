@@ -37,6 +37,7 @@
     max-width: 55px;
     align-items: center;
     
+    
 }
 .social h5{
     margin-bottom: 20px;
@@ -94,7 +95,7 @@
 .move a{
     text-decoration: none;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
-    color:rgb(22, 21, 21);  
+    color:rgb(52, 125, 189);  
 }
 .move a:hover{
     color:rgb(9, 60, 119);
